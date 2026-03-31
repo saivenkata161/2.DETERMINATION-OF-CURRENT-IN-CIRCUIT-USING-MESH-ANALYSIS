@@ -11,7 +11,7 @@
   RegulatedPowersupply( RPS)(0-30 V)1
 	
   Ammeter	( 0 - 10 mA) MC	3
-	
+	 
   Resistors	330Ω,.470Ω,560Ω	Each 1
 	
   Bread board	---	1
